@@ -1,0 +1,13 @@
+.h1 {
+  font-family: fantasy;
+  font-weight: 900;
+  text-align: center;
+}
+.content {
+  max-width: max-content;
+  margin: auto;
+  text-align: center;
+}
+.h3 {
+  font-family: 'Times New Roman', Times, serif;
+}
